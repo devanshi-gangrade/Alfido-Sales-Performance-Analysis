@@ -4,9 +4,13 @@ Analyze sales data to identify trends, patterns, and areas for improvement in sa
 
 ### Structure
 **Data Collection:** Obtain a dataset containing sales transactions, including dates, sales amounts, product categories, and sales regions.
-**Data Cleaning:** Handle missing values, remove duplicates, and format the data for analysis
+
+**Data Cleaning:** Handle missing values, remove duplicates, and format the data for analysis.
+
 **Exploratory Data Analysis (EDA):** Generate descriptive statistics, and analyze sales trends over time, regional performance, and product category performance.
+
 **Visualization:** Create visualizations such as line charts for sales trends, bar charts for regional performance, and pie charts for product category distribution.
+
 **Reporting:** Summarize findings in a report, highlighting key insights and recommendations for improving sales performance.
 
 ### Dataset
