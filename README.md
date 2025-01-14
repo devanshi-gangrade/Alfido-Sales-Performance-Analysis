@@ -19,6 +19,9 @@ Dataset is downloaded for Kaggle.
 
 ### Tools and Technologies
 Python: For data cleaning, analysis, and visualization. 
+
 Pandas: Data manipulation and analysis. 
+
 Matplotlib & Seaborn: Data visualization. 
+
 Jupyter Notebook: Interactive data analysis.
